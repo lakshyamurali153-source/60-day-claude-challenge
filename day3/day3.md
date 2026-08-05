@@ -5,7 +5,7 @@ Role-Based Prompting means assigning Claude a specific persona before asking a q
 
 for example i asked the same question as two different persona and got two different answers.
 
-original question and the answer
+original question and the answer the ai gave me;
 Building a product on a tight budget is really about ruthless sequencing — doing the few things that reduce risk fastest, and deferring everything else. Here's how I'd think about it.
 
 ## 1. Validate before you build
