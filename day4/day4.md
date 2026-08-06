@@ -1,4 +1,5 @@
 ##chain of thoughts prompting 
+
 its similar to cook asking our choice based on few questions like are u vegan? and then finally customize our dish according to our preferences.It breaks down a big problem into small parts to find the right answer.
 ##prompt
 You are an Elite AI Career Strategist.
